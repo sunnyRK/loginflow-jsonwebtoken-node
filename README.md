@@ -2,8 +2,12 @@
 
 ## mainfiles
 
-1). server.js
+1). server.js  
 2). authServer.js
+
+## To run
+
+    npm install
 
 1). To sun server.js  
 
